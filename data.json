@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "_id": 1,
+      "sentence": "La oportunidad siempre favorece a aquél que tiene la mente más preparada",
+      "author": "Hidemi Tashiro.",
+      "cover": "https://i.pinimg.com/originals/0c/a9/3d/0ca93dbbd879c63023b6ed27a8885621.png"
+    },
+    {
+      "_id": 2,
+      "sentence": "Los que se ríen frente a una exhibición de fuerza de voluntad son los que llorarán frente a ella.",
+      "author": "-",
+      "cover": "https://stickers.wiki/static/stickers/haikyuuchibi/file_747958.webp"
+    },
+    {
+      "_id": 3,
+      "sentence": "Ya que no tenemos alas tenemos que encontrar otra forma de volar.",
+      "author": "Shoyo Hinata",
+      "cover": "https://i.pinimg.com/originals/24/13/32/2413328f3dc5a78d791a86dcba28e7f1.png"
+    },
+    {
+      "_id": 4,
+      "sentence": "Salta hacia un lugar donde huela a satisfacción.",
+      "author": "Tendou Satori.",
+      "cover": "https://i.pinimg.com/originals/0d/e0/9c/0de09ca13a36b2536c6709963b20b4a9.png"
+    },
+    {
+      "_id": 5,
+      "sentence": "Alguien que no puede ver a su oponente de pie delante suya. No podrá derrotar al oponente que se tumba detrás",
+      "author": "Iwaizumi Hajime",
+      "cover": "https://animesher.com/orig/1/122/1221/12216/animesher.com_sports-anime-kozume-kenma-volleyball-anime-1221637.gif"
+    },
+    {
+      "_id": 6,
+      "sentence": "Las oportunidades no son iguales para todo el mundo. ¡Pero aún así existen!",
+      "author": "Kinoshita Hisashi",
+      "cover": "https://www.seekpng.com/png/full/164-1641837_tsukki-from-haikyuu-tsukishima-kei-chibi-png.png"
+    },
+    {
+      "_id": 7,
+      "sentence": "Las cosas que dejamos atrás, son aquellas que una vez se nos fueron dejadas a nosotros.",
+      "author": "-",
+      "cover": "https://i.pinimg.com/originals/fa/1d/8e/fa1d8ecb3badc3a634d703cc81cdd1c8.png"
+    },
+    {
+      "_id": 8,
+      "sentence": "La esperanza y posibilidades nacen de la desgeracia y mala suerte.",
+      "author": "Haiba Alisa",
+      "cover": "https://dthezntil550i.cloudfront.net/90/latest/902005090854552960001213212/0756dae0-1da3-47cd-bb1f-52445f251b0a.png"
+    },
+    {
+      "_id": 9,
+      "sentence": "Aunque ignores los lamentos, terminarás sintiéndolos, asegúrate de apreciar lo bueno y no lo olvides.",
+      "author": "Tanaka Ryunosuke",
+      "cover": "https://images.fineartamerica.com/images/artworkimages/medium/3/hinata-shoyo-chibi-melonia-suarez-transparent.png"
+    },
+    {
+      "_id": 10,
+      "sentence": "¡No es imposible, simplemente es difícil!.",
+      "author": "Bokuto Koutaro",
+      "cover": "https://blogger.googleusercontent.com/img/a/AVvXsEhdkG68daV9K9Cpy8RG2rSWFoqmZ4ejpzdGjNRreszdlKayQrx6cN4nvinRy-5RjWlI_aMmjiVKJzm2wZyPuX8I0aNJo4ufjXpAzbr_YiKfSxNvhrRLat8hpZjyG4luoxN_9DTQD7-m-ce51yiz5CQn6abmd1JgDJksHRZQBk_76HQV1pH3VKunBHYudg=w0"
+    },
+    {
+      "_id": 11,
+      "sentence": "Un cuerpo fuerte cultivará un espíritu fuerte. Esto no es acerca de superar tus límites, es acerca de elevarlos.",
+      "author": "Keishin Ukai",
+      "cover": "https://images.fineartamerica.com/images/artworkimages/medium/3/haikyuu-tooru-oikawa-aoba-johsai-high-judy-r-shaw-transparent.png"
+    },
+    {
+      "_id": 12,
+      "sentence": "Puedes volar aún más alto.",
+      "author": "Tobio Kageyama",
+      "cover": "https://tiermaker.com/images/templates/1642801565625294.png"
+    }
+  ]
+}

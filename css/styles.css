@@ -1,0 +1,24 @@
+.element-center {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+	background-color: #ef863d;
+}
+
+.text-cite {
+  font-family: 'Cookie', cursive;
+  font-size: 50px;
+  color: black;
+}
+
+.image-cite {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+	height: 160px;
+ 	width: 150px;
+}
